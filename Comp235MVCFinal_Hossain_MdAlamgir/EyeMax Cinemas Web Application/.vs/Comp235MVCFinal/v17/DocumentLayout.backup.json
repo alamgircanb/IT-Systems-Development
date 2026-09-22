@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|d:\\study\\academic\\sem2\\webdev2\\labs\\comp235mvcfinal\\views\\home\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\home\\addmovie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\dataaccessobjects\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:dataaccessobjects\\moviedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\home\\allmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\home\\allmovies.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\home\\movie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\home\\movie.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:models\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B38847-8210-47C8-90C0-37C787C04768}|Comp235MVCFinal.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDAO.cs",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\DataAccessObjects\\MovieDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessObjects\\MovieDAO.cs",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\DataAccessObjects\\MovieDAO.cs",
+              "RelativeToolTip": "DataAccessObjects\\MovieDAO.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T00:11:02.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T00:10:15.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T00:00:49.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T00:00:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movie.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\Movie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Movie.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\Movie.cshtml",
+              "RelativeToolTip": "Views\\Home\\Movie.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T00:00:30.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T00:00:25.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-27T00:00:21.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AllMovies.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\AllMovies.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AllMovies.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\AllMovies.cshtml",
+              "RelativeToolTip": "Views\\Home\\AllMovies.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAEBVwB8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T23:59:34.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddMovie.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\AddMovie.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AddMovie.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\AddMovie.cshtml",
+              "RelativeToolTip": "Views\\Home\\AddMovie.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T23:59:31.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T23:59:27.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Models\\Movies.cs",
+              "RelativeDocumentMoniker": "Models\\Movies.cs",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Models\\Movies.cs",
+              "RelativeToolTip": "Models\\Movies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:59:00.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "D:\\Study\\Academic\\SEM2\\WebDev2\\Labs\\Comp235MVCFinal\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T23:58:44.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

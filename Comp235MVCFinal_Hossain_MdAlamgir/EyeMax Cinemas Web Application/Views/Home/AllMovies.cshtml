@@ -1,0 +1,56 @@
+﻿@model Comp235MVCFinal.Models.Movies
+
+@{
+    ViewBag.Title = "All Movies";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>All Movies</h2>
+
+@using (Html.BeginForm("AllMovies", "Home", FormMethod.Post))
+{
+    @Html.HiddenFor(m => m.EditIndex)
+
+    <table border="1" cellpadding="10" style="width:100%; border-collapse: collapse;">
+        <thead>
+            <tr style="background-color: #f2f2f2;">
+                <th>Title</th>
+                <th>Director</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Items.Count(); i++)
+            {
+                if (!Model.Items[i].IsEditable)
+                {
+                    <tr>
+                        <td>@Html.HiddenFor(m => m.Items[i].Id)@Html.DisplayFor(m => m.Items[i].Title)</td>
+                        <td>@Html.DisplayFor(m => m.Items[i].Director)</td>
+                        <td>
+                            @Html.ActionLink("Details", "Details", new { id = Model.Items[i].Id }) |
+                            @Html.ActionLink("Edit", "MoviesEdit", new { id = Model.Items[i].Id }) |
+                            @Html.ActionLink("Delete", "DeleteMovie", new { id = Model.Items[i].Id }, new { onclick = "return confirm('Are you sure you want to delete this movie?');" })
+                        </td>
+                    </tr>
+                }
+                else
+                {
+                    <tr>
+                        <td>
+                            @Html.HiddenFor(m => m.Items[i].Id)
+                            @Html.TextBoxFor(m => m.Items[i].Title)
+                        </td>
+                        <td>
+                            @Html.TextBoxFor(m => m.Items[i].Director)
+                        </td>
+                        <td>
+                            <input type="submit" value="Save" name="Save" />
+                            @Html.ActionLink("Cancel", "AllMovies", "Home", null, new { style = "margin-left: 10px;" })
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+}

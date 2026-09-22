@@ -1,0 +1,7 @@
+﻿@model Comp235MVCFinal.Models.Movie
+<div class="well">
+    <h3>@Model.Title</h3>
+    <p><strong>Director:</strong> @Model.Director</p>
+    <p><strong>Description:</strong> @Model.Description</p>
+    @Html.ActionLink("Back to List", "AllMovies")
+</div>
