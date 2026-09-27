@@ -1,0 +1,60 @@
+<!-- Main layout shared by every page in the application -->
+<div class="app-container">
+
+  <!-- Application header and navigation -->
+  <header class="app-header">
+    <h1>Wide World Importers</h1>
+
+    <!--
+      routerLink navigates to a route without reloading the entire page.
+      routerLinkActive adds the "active" CSS class to the selected link.
+    -->
+    <nav class="app-nav" aria-label="Main navigation">
+
+      <!--
+        exact: true ensures that Home is active only when the URL is exactly "/".
+        Without it, Home could remain active on /customers and /orders.
+      -->
+      <a
+        routerLink="/"
+        routerLinkActive="active"
+        [routerLinkActiveOptions]="{ exact: true }"
+      >
+        Home
+      </a>
+
+      <!-- Navigates to the Customers component -->
+      <a
+        routerLink="/customers"
+        routerLinkActive="active"
+      >
+        Customers
+      </a>
+
+      <!-- Navigates to the Orders component -->
+      <a
+        routerLink="/orders"
+        routerLinkActive="active"
+      >
+        Orders
+      </a>
+    </nav>
+  </header>
+
+  <!--
+    Angular inserts the component matching the current URL here.
+    For example, /customers displays the Customers component.
+  -->
+  <main class="app-main">
+    <router-outlet></router-outlet>
+  </main>
+
+  <!-- Shared footer displayed on every page -->
+  <footer class="app-footer">
+    <p>
+      COMP267 – Lab 2 | Md Alamgir Hossain | BIS, Regina Campus |
+      Saskatchewan Polytechnic
+    </p>
+  </footer>
+
+</div>

@@ -1,0 +1,22 @@
+[
+  { "CustomerID": 1, "CustomerName": "Bedecs Anna", "City": "Seattle", "PhoneNumber": "206‑555‑0101" },
+  { "CustomerID": 2, "CustomerName": "Gratacos Solsona Antonio", "City": "Boston", "PhoneNumber": "617‑555‑0202" },
+  { "CustomerID": 3, "CustomerName": "Axen Thomas", "City": "Los Angeles", "PhoneNumber": "310‑555‑0303" },
+  { "CustomerID": 4, "CustomerName": "Lee Christina", "City": "New York", "PhoneNumber": "212‑555‑0404" },
+  { "CustomerID": 5, "CustomerName": "O’Donnell Martin", "City": "Minneapolis", "PhoneNumber": "612‑555‑0505" },
+  { "CustomerID": 6, "CustomerName": "Pérez‑Olaeta Francisco", "City": "Milwaukee", "PhoneNumber": "414‑555‑0606" },
+  { "CustomerID": 7, "CustomerName": "Xie Ming‑Yang", "City": "Boise", "PhoneNumber": "208‑555‑0707" },
+  { "CustomerID": 8, "CustomerName": "Andersen Elizabeth", "City": "Portland", "PhoneNumber": "503‑555‑0808" },
+  { "CustomerID": 9, "CustomerName": "Mortensen Sven", "City": "Salt Lake City", "PhoneNumber": "801‑555‑0909" },
+  { "CustomerID": 10, "CustomerName": "Wacker Roland", "City": "Chicago", "PhoneNumber": "312‑555‑1111" },
+  { "CustomerID": 11, "CustomerName": "Krschne Peter", "City": "Miami", "PhoneNumber": "305‑555‑1212" },
+  { "CustomerID": 12, "CustomerName": "Edwards John", "City": "Las Vegas", "PhoneNumber": "702‑555‑1313" },
+  { "CustomerID": 13, "CustomerName": "Ludick Andre", "City": "Memphis", "PhoneNumber": "901‑555‑1414" },
+  { "CustomerID": 14, "CustomerName": "Grilo Carlos", "City": "Denver", "PhoneNumber": "303‑555‑1515" },
+  { "CustomerID": 15, "CustomerName": "Kupkova Helena", "City": "Honolulu", "PhoneNumber": "808‑555‑1616" },
+  { "CustomerID": 16, "CustomerName": "Goldschmidt Daniel", "City": "San Francisco", "PhoneNumber": "415‑555‑1717" },
+  { "CustomerID": 17, "CustomerName": "Bagel Jean", "City": "Seattle", "PhoneNumber": "206‑555‑1818" },
+  { "CustomerID": 18, "CustomerName": "Autier Miconi Catherine", "City": "Boston", "PhoneNumber": "617‑555‑1919" },
+  { "CustomerID": 19, "CustomerName": "Eggerer Alexander", "City": "Los Angeles", "PhoneNumber": "310‑555‑2020" },
+  { "CustomerID": 20, "CustomerName": "Li George", "City": "New York", "PhoneNumber": "212‑555‑2121" }
+]

@@ -1,0 +1,22 @@
+[
+  { "OrderID": 101, "OrderDate": "2025-09-01", "CustomerName": "Wide World Importers", "TotalAmount": 1240.50 },
+  { "OrderID": 102, "OrderDate": "2025-09-02", "CustomerName": "Tailspin Toys Wholesale", "TotalAmount": 880.75 },
+  { "OrderID": 103, "OrderDate": "2025-09-03", "CustomerName": "Northwind Traders", "TotalAmount": 1512.00 },
+  { "OrderID": 104, "OrderDate": "2025-09-03", "CustomerName": "Coho Winery", "TotalAmount": 675.30 },
+  { "OrderID": 105, "OrderDate": "2025-09-04", "CustomerName": "Adventure Works Retail", "TotalAmount": 2450.00 },
+  { "OrderID": 106, "OrderDate": "2025-09-05", "CustomerName": "Lucerne Publishing", "TotalAmount": 1395.90 },
+  { "OrderID": 107, "OrderDate": "2025-09-05", "CustomerName": "Contoso Traders LLC", "TotalAmount": 324.00 },
+  { "OrderID": 108, "OrderDate": "2025-09-06", "CustomerName": "Sal’s Auto Parts", "TotalAmount": 798.25 },
+  { "OrderID": 109, "OrderDate": "2025-09-07", "CustomerName": "Woodgrove Bank", "TotalAmount": 1920.60 },
+  { "OrderID": 110, "OrderDate": "2025-09-07", "CustomerName": "Blue Yonder Logistics", "TotalAmount": 1102.40 },
+  { "OrderID": 111, "OrderDate": "2025-09-08", "CustomerName": "Margie's Travel", "TotalAmount": 315.00 },
+  { "OrderID": 112, "OrderDate": "2025-09-09", "CustomerName": "Graphic Design Extraordinaire", "TotalAmount": 143.75 },
+  { "OrderID": 113, "OrderDate": "2025-09-09", "CustomerName": "Fabrikam, Inc.", "TotalAmount": 2289.00 },
+  { "OrderID": 114, "OrderDate": "2025-09-10", "CustomerName": "Northrop Grumman Solutions", "TotalAmount": 1645.20 },
+  { "OrderID": 115, "OrderDate": "2025-09-11", "CustomerName": "Lucia’s Boutique", "TotalAmount": 945.00 },
+  { "OrderID": 116, "OrderDate": "2025-09-11", "CustomerName": "Wingtip Toys", "TotalAmount": 1380.00 },
+  { "OrderID": 117, "OrderDate": "2025-09-12", "CustomerName": "Trey Research Inc.", "TotalAmount": 1267.80 },
+  { "OrderID": 118, "OrderDate": "2025-09-13", "CustomerName": "Proseware Supplies", "TotalAmount": 799.90 },
+  { "OrderID": 119, "OrderDate": "2025-09-13", "CustomerName": "Humongous Insurance Co.", "TotalAmount": 1580.45 },
+  { "OrderID": 120, "OrderDate": "2025-09-14", "CustomerName": "Bedecs Anna", "TotalAmount": 234.60 }
+]

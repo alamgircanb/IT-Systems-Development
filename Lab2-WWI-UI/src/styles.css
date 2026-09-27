@@ -1,0 +1,3 @@
+/* Global reset: component-specific layouts live in each component CSS file. */
+* { box-sizing: border-box; }
+body { margin: 0; }
