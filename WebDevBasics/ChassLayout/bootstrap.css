@@ -1,0 +1,79 @@
+
+        /*
+         * Custom Styles and Essential Fixes for 8x8 Grid
+         */
+        
+        /* Custom Column Backgrounds (as requested) */
+        .col1 {
+            background:black;
+            padding: 1rem; /* Add some padding around the board */
+            color: white ;
+        
+        }
+
+        .col2 {
+            background: #97c0ea;
+            padding: 1rem;
+            border: #5C7080 solid 5px;
+        }
+
+        .col4 {
+            background: white;
+            padding: 0.5rem 1rem;
+            color: black;
+            text-align: center;
+            border: #5C7080 solid 1px;
+        }
+
+        /* Essential fix: Ensure board rows have no gutter/margin */
+        .board-row {
+            margin-left: 0;
+            margin-right: 0;
+            display: flex; /* Use flexbox to easily manage 8 columns */
+            flex-wrap: nowrap;
+        }
+        
+        /* Style for the individual squares (the core fix) */
+        .light-square, .dark-square {
+            /* 1. Force the element to take 1/8th of the row width */
+            flex-basis: 12.5% !important; /* 100% / 8 = 12.5% */
+            max-width: 12.5% !important;
+            
+            /* 2. Remove Bootstrap's horizontal padding (gutter) */
+            padding-left: 0;
+            padding-right: 0;
+
+            /* 3. Create a perfect square shape using padding-top equal to its width */
+            padding-top: 12.5%; 
+            height: 0; /* Necessary for the padding-top trick to work */
+            position: relative;
+            
+            /* Apply common styling */
+            border: #5C7080 solid 1px;
+            box-sizing: border-box; /* Includes padding and border in the 12.5% width */
+            text-align: center;
+            font-weight: bold;
+            font-size: 0.75rem;
+        }
+
+        /* Square Colors (as requested, but with better dark text contrast) */
+        .light-square {
+            background-color: white;
+            border: black;
+           
+        } 
+        
+        .dark-square {
+            background-color: black;
+            border= white;
+          
+        }
+
+        /* Position content (e.g., A1, B1) in the center of the square */
+        .square-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+        
